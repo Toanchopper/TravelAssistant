@@ -1,4 +1,4 @@
-# TravelAssistant-Project-1-
+# TravelAssistant
 
 This is my first project when I was in university. It's called Travel Assistant and written in C++.It uses Dijkstra algorithm to calculate shortest path from one city to others.
 Besides,I expended this problem by adding some features to it such as suggesting things like weather,local sightseeing,cuisine,....
